@@ -92,3 +92,4 @@ lint/tmp/
 lint/reports/
 
 *.salive
+.keystore_secrets.txt
